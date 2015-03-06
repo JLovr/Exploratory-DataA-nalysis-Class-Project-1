@@ -61,3 +61,12 @@ Excerpt explaining tasking follows:
 >When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files.
 >
 >The four plots that you will need to construct are shown below. 
+
+Only other information given where pictures of the plots to be produced (not included in this doc).
+
+Content by plot:
+1. Frequency histogram of number of measurements in 4 hour increments over the 48 hour period.
+2. Line Plot of Global Active Power in kilowatts over the same 2 day period.
+3. Energy sub metering over the same 2 dap period (3 categories).
+4. 4 plots in a single frame, left column containing smaller representations of plots 2 and 3, right column containing plots of Voltage and Global Reactive Power.
+
